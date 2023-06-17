@@ -23,7 +23,7 @@ class LettersCalculator extends Component {
           <input
             placeholder="Enter the phrase"
             id="letterCount"
-            type="search"
+            type="text"
             className="input-box"
             onChange={this.letterCount}
           />
